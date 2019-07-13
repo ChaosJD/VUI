@@ -16,3 +16,6 @@ https://www.pcwelt.de/news/Amazon-Alexa-Sprachaufnahmen-bleiben-unbegrenzt-gespe
 
 # Samsung
 [HomeHub](https://www.heise.de/newsticker/meldung/Samsung-bringt-Smart-Home-Hub-nach-Deutschland-4468079.html)
+
+# Regierung
+[Smart-Home-Geräte: Regierung hält Online-Zugriff nicht für einen Lauschangriff](https://www.heise.de/newsticker/meldung/Smart-Home-Geraete-Regierung-haelt-Online-Zugriff-nicht-fuer-einen-Lauschangriff-4469516.html)
