@@ -1,4 +1,7 @@
 # Alexa
+
+## Privacy
+[3 Amazon Echo privacy settings you should turn on now](https://www.komando.com/tips/426842/3-amazon-echo-privacy-settings-you-should-turn-on-now)
 ## Speicherung  
 https://www.pcwelt.de/news/Amazon-Alexa-Sprachaufnahmen-bleiben-unbegrenzt-gespeichert-10622147.html
 
